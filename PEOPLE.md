@@ -1,3 +1,0 @@
-Haskell Curry
-Sergey Toshchev
-
